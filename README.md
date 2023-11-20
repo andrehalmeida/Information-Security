@@ -3,7 +3,7 @@
 
 ### Ferramentas utilizadas
 
-- Kali  Linux
+- Kali
 - Setoolkit
 
 ### Técnica
